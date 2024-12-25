@@ -1,5 +1,3 @@
-<img width="811" alt="Screenshot 2024-12-25 at 8 14 25 PM" src="https://github.com/user-attachments/assets/05526de2-cb4d-49a5-9de4-6ce0083a83da" /># Incheon-International-Airport-Transfer-Analysis
-
 # Analysis of Incheon International Airport Transfers
 
 Analysis of transfer passenger patterns at Incheon International Airport using R, focusing on route optimization and seasonal trends.
@@ -40,6 +38,9 @@ Analyzed Incheon International Airport transfer passenger data from January to J
      - North America
      - East Asia
    - Busan emerged as significant transit point
+  <img width="772" alt="Screenshot 2024-12-25 at 8 17 42 PM" src="https://github.com/user-attachments/assets/eaa13789-984a-46d4-926e-6fa7a6d13e51" />
+<img width="798" alt="Screenshot 2024-12-25 at 8 17 57 PM" src="https://github.com/user-attachments/assets/7a53fc85-63ad-487c-b8ff-635d9e15322f" />
+
 
 3. Route Analysis:
    - Distance not a primary factor in transfer numbers
