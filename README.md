@@ -2,6 +2,8 @@
 
 Analysis of transfer passenger patterns at Incheon International Airport using R, focusing on route optimization and seasonal trends.
 
+For detailed analysis methodology and results, please refer to the "DSR-GROUP1-PPT.pdf" file in the repository
+
 ## Team Members (Group 1)
 - Nam Hee Yeon
 - Son Chae Ri
@@ -27,10 +29,6 @@ Analyzed Incheon International Airport transfer passenger data from January to J
    - Contrary to expectations, Southeast Asian transfers decreased in summer (monsoon impact)
    - Overall passenger numbers showed increasing trend towards summer
    - South Asia contributed significantly to January peaks
-<img width="808" alt="Screenshot 2024-12-25 at 8 13 51 PM" src="https://github.com/user-attachments/assets/b334752c-b035-4ab0-908d-a90305cf20e8" />
-<img width="798" alt="Screenshot 2024-12-25 at 8 14 00 PM" src="https://github.com/user-attachments/assets/0740987b-73e6-418f-bf10-91aa104ddf0d" />
-<img width="796" alt="Screenshot 2024-12-25 at 8 14 08 PM" src="https://github.com/user-attachments/assets/cc7438e1-ac1e-48d0-9eb6-c60cb4f718f0" />
-<img width="797" alt="Screenshot 2024-12-25 at 8 14 15 PM" src="https://github.com/user-attachments/assets/d8b5d1cc-8506-4181-942d-47cf9afcf089" />
 
 2. Regional Analysis:
    - Top 3 regions account for ~90% of transfers:
@@ -38,17 +36,12 @@ Analyzed Incheon International Airport transfer passenger data from January to J
      - North America
      - East Asia
    - Busan emerged as significant transit point
-  <img width="772" alt="Screenshot 2024-12-25 at 8 17 42 PM" src="https://github.com/user-attachments/assets/eaa13789-984a-46d4-926e-6fa7a6d13e51" />
-<img width="798" alt="Screenshot 2024-12-25 at 8 17 57 PM" src="https://github.com/user-attachments/assets/7a53fc85-63ad-487c-b8ff-635d9e15322f" />
 
 
 3. Route Analysis:
    - Distance not a primary factor in transfer numbers
    - Regional factors more influential than distance
    - Strong connections between Western and Southeast Asian routes
-   
-<img width="801" alt="Screenshot 2024-12-25 at 8 14 39 PM" src="https://github.com/user-attachments/assets/8a5c3f55-7081-4bf9-be1f-d7be23fd8a1f" />
-<img width="792" alt="Screenshot 2024-12-25 at 8 14 49 PM" src="https://github.com/user-attachments/assets/b36f0c2e-9902-437a-ad2e-857f1dc6ea7e" />
 
 ## Route Recommendations
 <img width="798" alt="Screenshot 2024-12-25 at 8 15 05 PM" src="https://github.com/user-attachments/assets/4477cd3b-f11d-4767-950e-5b0c090224f8" />
