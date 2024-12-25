@@ -2,7 +2,8 @@
 
 Analysis of transfer passenger patterns at Incheon International Airport using R, focusing on route optimization and seasonal trends.
 
-For detailed analysis methodology and results, please refer to the "DSR-GROUP1-PPT.pdf" file in the repository
+For detailed analysis methodology and results, please refer to the "**DSR-GROUP1-PPT.pdf**" file in the repository
+<img width="754" alt="Screenshot 2024-12-25 at 8 20 43 PM" src="https://github.com/user-attachments/assets/d513cd06-0bcf-4fdb-9a6a-2c23747dc14b" />
 
 ## Team Members (Group 1)
 - Nam Hee Yeon
